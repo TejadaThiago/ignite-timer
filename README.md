@@ -19,6 +19,16 @@ O Ignite Timer é uma aplicação desenvolvida em React.js com TypeScript para a
 
 - Node.js e npm instalados globalmente na máquina
 
+## Preview
+![image](https://github.com/TejadaThiago/ignite-timer/assets/124005667/b8e26254-59ae-4861-afae-96f5e72b4cba)
+
+   Veja o app:
+
+   <a href="https://ignitetimer.thiagotejada.dev.br/"> Clique aqui</a>
+
+   Obs: Não persiste os dados, funcionando localmente no navegador.
+
+
 ## Instalação
 
 1. Clone este repositório em sua máquina local:
