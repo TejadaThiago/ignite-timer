@@ -14,10 +14,7 @@ O Ignite Timer é uma aplicação desenvolvida em React.js com TypeScript para a
 - Iniciar, interromper o timer
 - Histórico recente dos ciclos com nome do projeto duração e status
 - Interface intuitiva e amigável
-
-## Pré-requisitos
-
-- Node.js e npm instalados globalmente na máquina
+  
 
 ## Preview
 ![image](https://github.com/TejadaThiago/ignite-timer/assets/124005667/b8e26254-59ae-4861-afae-96f5e72b4cba)
@@ -28,6 +25,9 @@ O Ignite Timer é uma aplicação desenvolvida em React.js com TypeScript para a
 
    Obs: Não persiste os dados, funcionando localmente no navegador.
 
+## Pré-requisitos
+
+- Node.js e npm instalados globalmente na máquina
 
 ## Instalação
 
